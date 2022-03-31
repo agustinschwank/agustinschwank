@@ -2,7 +2,6 @@
 <h3 align="center">Un desarrollador frontend apasionado de: Santa Fe, Argentina</h3>
 
 - 📝 Regularmente escribo artículos de <a target="_blank" href="https://agustinschwank.com.ar/">(musica, informatica, tutoriales)</a> que son algunas de mis pasiones.
-- 🌱 Estoy aprendiendo frontend & backend 
 - ⚡ Dato curioso: si te gusta, simplemente hazlo 
 - 📫 Para contactarme: **hola@agustinschwank.com.ar**
 
