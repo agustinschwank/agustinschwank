@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Agustin Schwank</h1>
-<h3 align="center" style="color: #00ffff">Un desarrollador frontend apasionado de: Santa Fe, Argentina</h3>
+<h3 align="center">Un desarrollador frontend apasionado de: Santa Fe, Argentina</h3>
 
 - 📝 Regularmente escribo artículos de <a target="_blank" href="https://agustinschwank.com.ar/">(musica, informatica, tutoriales)</a> que son algunas de mis pasiones.
 - ⚡ Dato curioso: si te gusta, simplemente hazlo 
