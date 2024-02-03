@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div>
-  <img width="100%" height="auto" src="https://github.com/agustinschwank/agustinschwank/blob/main/main/agustinschwank_banner.png"/>
+  <img width="100%" height="auto" src="./main/agustinschwank_banner.png"/>
 </div>
 <!-- end Banner -->
 <hr/>
