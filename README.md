@@ -7,12 +7,12 @@
 <!-- About Me -->
 <h1 align="left">🚀 Explorador Creativo en el Código y el Arte</h1>
 <pre>
-🌐 Mi sitio web personal es: www.agustinschwank.com.ar
+🌐 Mi sitio web personal es: <a href="https://agustinschwank.com.ar" target="_blank" alt="sitio web oficial">www.agustinschwank.com.ar</a>
 📝 Regularmente escribo articulos sobre musica, informatica, tutoriales, entre otros.
-😃 Te gusta la musica?, entonces puedes explorar mi proyecto más antiguo en: www.vivramos.com
+😃 Te gusta la musica?, entonces puedes explorar mi proyecto más antiguo en: <a href="https://vivramos.com" target="_blank" alt="sitio web de vivramos">www.vivramos.com</a>
 🎨 Fusiono código, arte y música para crear experiencias únicas.
 🔍 Siempre buscando conexiones únicas a través de la programación y el diseño.
-📫 Para contactarme enviando un correo a hola@agustinschwank.com.ar
+📫 Para contactarme enviando un correo a <a href="mailto:hola@agustinschwank.com.ar" alt="enviar correo electronico">hola@agustinschwank.com.ar</a>
 </pre>
 <!-- End About Me -->
 <!-- Languages and Tools Section -->
