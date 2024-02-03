@@ -4,8 +4,19 @@
 </div>
 <!-- end Banner -->
 <hr/>
+<!-- About Me -->
+<h1 align="left">🚀 Explorador Creativo en el Código y el Arte</h1>
+<pre>
+🌐 Mi sitio web personal es: www.agustinschwank.com.ar
+📝 Regularmente escribo articulos sobre musica, informatica, tutoriales, entre otros.
+😃 Te gusta la musica?, entonces puedes explorar mi proyecto más antiguo en: www.vivramos.com
+🎨 Fusiono código, arte y música para crear experiencias únicas.
+🔍 Siempre buscando conexiones únicas a través de la programación y el diseño.
+📫 Para contactarme enviando un correo a hola@agustinschwank.com.ar
+</pre>
+<!-- End About Me -->
 <!-- Languages and Tools Section -->
-<h1 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h1> 
+<h1 align="left">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h1> 
 <!-- Section -->
 <div align="center">
   <kbd>
@@ -41,7 +52,7 @@
   <kbd>
     <br/>
     <div align="center">
-      <kbd>Hosting/Saas</kbd>
+      <kbd>HOSTING/SAAS</kbd>
     </div>
     <br/><br/>
     <div align="left">&emsp;
