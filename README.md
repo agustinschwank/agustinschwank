@@ -15,6 +15,15 @@
 📫 Para contactarme enviando un correo a <a href="mailto:hola@agustinschwank.com.ar" alt="enviar correo electronico">hola@agustinschwank.com.ar</a>
 </pre>
 <!-- End About Me -->
+<!-- Social Media -->
+<h1 align="left">🚀 Social Media</h1>
+
+[![Facebook](https://img.shields.io/badge/-FACEBOOK-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/agustinschwank) 
+[![Twitter](https://img.shields.io/badge/-X%20(Twitter)-%23000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/agustinschwank) 
+[![Instagram](https://img.shields.io/badge/-INSTAGRAM-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/agustinschwank) 
+[![Youtube](https://img.shields.io/badge/-YOUTUBE-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@agustinschwank) 
+<!-- End Socials Media -->
+<hr/>
 <!-- Languages and Tools Section -->
 <h1 align="left">🛠️ Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h1> 
 <!-- Section -->
