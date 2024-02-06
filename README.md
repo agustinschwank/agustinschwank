@@ -1,6 +1,6 @@
 <!-- Banner -->
 <div>
-  <img width="100%" height="auto" src="./main/agustinschwank_bannergit.png"/>
+  <img width="100%" height="auto" src="./main/banner_agustinschwank.png"/>
 </div>
 <!-- end Banner -->
 <hr/>
