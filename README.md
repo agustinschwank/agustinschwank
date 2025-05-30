@@ -1,7 +1,5 @@
 <!-- Banner -->
-<div>
-  <img width="100%" height="auto" src="./main/banner_agustinschwank.png"/>
-</div>
+![Banner](./main/banner_agustinschwank.png)
 <!-- end Banner -->
 <hr/>
 <!-- About Me -->
