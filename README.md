@@ -7,7 +7,6 @@
 <pre>
 🌐 Mi sitio web personal: <a href="https://agustinschwank.com" target="_blank" alt="sitio web oficial">www.agustinschwank.com</a>
 📝 Regularmente escribo articulos sobre musica, informatica, tutoriales, entre otros.
-<!--😃 Te gusta la musica?, entonces escucha mi radio en: <a href="https://vivramos.com" target="_blank" alt="sitio web de vivramos">www.vivramos.com</a>-->
 🎨 Fusiono código, arte y música para crear experiencias únicas.
 🔍 Siempre buscando conexiones únicas a través de la programación y el diseño.
 📫 Contacto: <a href="mailto:hola@agustinschwank.com" alt="enviar correo electronico">hola@agustinschwank.com</a>
