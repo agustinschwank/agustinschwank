@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./main/banner_agustinschwank.png)
+![Banner](./main/banner2_agustinschwank.png)
 <!-- end Banner -->
 <hr/>
 <!-- About Me -->
